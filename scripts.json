@@ -1,0 +1,6 @@
+{
+	"scripts": {
+		"make": "deno run --allow-all make_day.ts",
+		"test": "deno test --allow-all --watch"
+	}
+}
